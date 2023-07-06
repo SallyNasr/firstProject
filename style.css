@@ -55,3 +55,11 @@ img{
     height: 60px;width: 100px;
     
 }
+.prices{
+    display: flex;
+}
+
+.one{
+    text-decoration: line-through;
+}
+
